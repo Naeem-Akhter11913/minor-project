@@ -17,3 +17,4 @@ const firebaseConfig = {
   const db = firebaseApp.firestore();
 
   export {auth, db};
+//jdnjdnjn
